@@ -1,16 +1,41 @@
-### Hi there 👋
+# Full-Stack Web Developer Portfolio
 
-<!--
-**mhmd-zbib/mhmd-zbib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub repository! This repository showcases my expertise in full-stack web development.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a dedicated full-stack web developer skilled in front-end and back-end technologies. I specialize in building scalable web applications with a focus on user experience.
+
+## Technologies
+
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Vue.js
+- **Backend**: Node.js, Express.js, MongoDB
+- **Other**: Git, RESTful APIs
+
+## Projects
+
+### [Project Name]
+
+- **Description**: Brief project overview.
+- **Tech**: List of technologies used.
+- **[GitHub Repository](link)**
+- **[Live Demo](link)** (if available)
+
+[Include similar sections for each project]
+
+## Contact Me
+
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](link)
+
+## Contributions
+
+Open to collaboration! Feel free to submit pull requests or suggest improvements.
+
+## Acknowledgements
+
+Thanks to contributors and resources for their support.
+
+## License
+
+This project is licensed under the [License Name] License.
