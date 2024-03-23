@@ -11,32 +11,24 @@ I'm a versatile developer specializing in mobile and web development. With exper
 ### SYNC - CRM Mobile App
 
 - **Description**: A CRM mobile app built with React Native for seamless customer relationship management.
-- **Tech**: React Native, Redux, Express.js
+- **Tech**: React Native, Recoil, SQLite, Express.js
 - **[GitHub Repository](link)**
-- **[Demo](link)**
-
+ 
 ### WealthWish - Money Management Website
 
 - **Description**: A website for money and budget management, providing features akin to a personal banking platform.
-- **Tech**: React, Next.js, Express.js
+- **Tech**: React, Express.js, MongoDb
 - **[GitHub Repository](link)**
-- **[Demo](link)**
-
-[Include similar sections for each project]
 
 ## Contact Me
 
-- **Email**: your.email@example.com
+- **Email**: mohammad.h.zbib@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](link)
 
 ## Contributions
 
 Open to collaboration! Feel free to submit pull requests or suggest improvements.
 
-## Acknowledgements
+  to contributors and resources for their support.
 
-Thanks to contributors and resources for their support.
-
-## License
-
-This project is licensed under the [License Name] License.
+ 
