@@ -12,23 +12,19 @@ I'm a versatile developer specializing in mobile and web development. With exper
 
 - **Description**: A CRM mobile app built with React Native for seamless customer relationship management.
 - **Tech**: React Native, Recoil, SQLite, Express.js
-- **[GitHub Repository](link)**
+
  
-### WealthWish - Money Management Website
+### WealthWise - Money Management Website
 
 - **Description**: A website for money and budget management, providing features akin to a personal banking platform.
 - **Tech**: React, Express.js, MongoDb
-- **[GitHub Repository](link)**
+- **[GitHub Repository](https://github.com/mhmd-zbib/wealthwise-frontend)
+**
 
 ## Contact Me
 
 - **Email**: mohammad.h.zbib@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](link)
 
-## Contributions
-
-Open to collaboration! Feel free to submit pull requests or suggest improvements.
-
-  to contributors and resources for their support.
-
+ 
  
