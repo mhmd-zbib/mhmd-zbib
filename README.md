@@ -18,8 +18,7 @@ I'm a versatile developer specializing in mobile and web development. With exper
 
 - **Description**: A website for money and budget management, providing features akin to a personal banking platform.
 - **Tech**: React, Express.js, MongoDb
-- **[GitHub Repository](https://github.com/mhmd-zbib/wealthwise-frontend)
-**
+- **[GitHub Repository](https://github.com/mhmd-zbib/wealthwise-frontend)**
 
 ## Contact Me
 
