@@ -1,25 +1,26 @@
-# Full-Stack Web Developer Portfolio
+# Developer Portfolio
 
-Welcome to my GitHub repository! This repository showcases my expertise in full-stack web development.
+Welcome to my GitHub repository! Here you'll find a collection of projects showcasing my skills as a mobile and web developer.
 
 ## About Me
 
-I'm a dedicated full-stack web developer skilled in front-end and back-end technologies. I specialize in building scalable web applications with a focus on user experience.
-
-## Technologies
-
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Vue.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Other**: Git, RESTful APIs
+I'm a versatile developer specializing in mobile and web development. With expertise in React Native, React, Next.js, and Express.js, I craft intuitive and efficient solutions for a variety of platforms.
 
 ## Projects
 
-### [Project Name]
+### SYNC - CRM Mobile App
 
-- **Description**: Brief project overview.
-- **Tech**: List of technologies used.
+- **Description**: A CRM mobile app built with React Native for seamless customer relationship management.
+- **Tech**: React Native, Redux, Express.js
 - **[GitHub Repository](link)**
-- **[Live Demo](link)** (if available)
+- **[Demo](link)**
+
+### WealthWish - Money Management Website
+
+- **Description**: A website for money and budget management, providing features akin to a personal banking platform.
+- **Tech**: React, Next.js, Express.js
+- **[GitHub Repository](link)**
+- **[Demo](link)**
 
 [Include similar sections for each project]
 
