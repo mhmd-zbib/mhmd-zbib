@@ -5,9 +5,6 @@ Welcome to the BatCave. I'm a versatile developer specializing in mobile and web
 <p align="flex-start" >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs&perline=5" />
-
-  ![Working on](https://wakatime.com/badge/user/018ec750-65cd-41ad-907a-2493c3c088f5.svg)
-
    </a>
 </p>
 
