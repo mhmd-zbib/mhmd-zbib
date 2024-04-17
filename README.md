@@ -15,7 +15,7 @@ Welcome to the BatCave. I'm a versatile developer specializing in mobile and web
 
 - **Description**: A CRM mobile app built with React Native for seamless customer relationship management.
 - **Tech**: React Native, Recoil, SQLite, Express.js
-
+- **[GitHub Repository](https://github.com/mhmd-zbib/sync-app)**
  
 ### WealthWise - Master Your Finances
 
@@ -25,8 +25,8 @@ Welcome to the BatCave. I'm a versatile developer specializing in mobile and web
 
  
 ## Contact me
-- **Email**: mohammad.h.zbib@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](link)
+mohammad.h.zbib@gmail.com
+
 
  
  
