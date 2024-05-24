@@ -17,12 +17,17 @@ Welcome to the BatCave. I'm a versatile developer specializing in mobile and web
 - **Tech**: React Native, Recoil, SQLite, Express.js
 - **[GitHub Repository](https://github.com/mhmd-zbib/sync-app)**
  
-### WealthWise - Master Your Finances
+### Brain Waves - 
 
-- **Description**: A website for money and budget management, providing features akin to a personal banking platform.
-- **Tech**: React, Express.js, MongoDb
-- **[GitHub Repository](https://github.com/mhmd-zbib/wealthwise-frontend)**
+- **Description**: A webapp that allows students to connect, Q&A and share notes.
+- **Tech**: React, Springboot, PostgreSQL, Docker
+- **[GitHub Repository](https://github.com/mhmd-zbib/brain-waves)**
 
+### Code Sphere -  Developers Contribution Platform
+
+- **Description**: Find and contribute with other developers on projects.
+- **Tech**: React, Express, PostgreSQL, GraphQL, Docker, TS
+- **[GitHub Repository](https://github.com/mhmd-zbib/code-sphere)**
  
 ## Contact me
 mohammad.h.zbib@gmail.com
