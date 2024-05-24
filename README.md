@@ -17,7 +17,7 @@ Welcome to the BatCave. I'm a versatile developer specializing in mobile and web
 - **Tech**: React Native, Recoil, SQLite, Express.js
 - **[GitHub Repository](https://github.com/mhmd-zbib/sync-app)**
  
-### Brain Waves - 
+### Brain Waves - Connect with your Classmates
 
 - **Description**: A webapp that allows students to connect, Q&A and share notes.
 - **Tech**: React, Springboot, PostgreSQL, Docker
