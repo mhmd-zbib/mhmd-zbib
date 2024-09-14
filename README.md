@@ -4,7 +4,7 @@ Welcome to the BatCave. I'm a versatile developer specializing in mobile and web
 
 <p align="flex-start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,expressjs,nestjs,java,spring&perline=10" style="margin-right: 120px; "/>
+    <img src="https://skillicons.dev/icons?i=react,ts,expressjs,java,spring&perline=10" style="margin-right: 120px; "/>
   </a>
  </p>
 
