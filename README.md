@@ -1,5 +1,3 @@
-# Behind the Mask
-
 Backend developer specializing in Java Spring Boot, cloud solutions, and Docker.
 
 <p align="flex-start">
@@ -8,7 +6,6 @@ Backend developer specializing in Java Spring Boot, cloud solutions, and Docker.
   </a>
  </p>
 
-mohammad.h.zbib@gmail.com
 
 
  
