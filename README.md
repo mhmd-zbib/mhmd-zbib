@@ -1,8 +1,7 @@
 
 ## About
 
-Software Engineer with a specialization in Java Spring Boot, Cloud Solutions, and Docker. My passion lies in the realms of Artificial Intelligence and low-level programming, where I continuously strive to push the boundaries of innovation.
-
+ackend Software Engineer specializing in Java Spring Boot, Cloud Solutions, and Docker. Passionate about building scalable, high-performance backend systems, optimizing databases, and leveraging cloud technologies for reliability and efficiency.
 
 <p align="flex-start">
   <a href="https://skillicons.dev">
