@@ -21,7 +21,7 @@ ackend Software Engineer specializing in Java Spring Boot, Cloud Solutions, and 
 - **Low-Level Programming**: Fascinated by the intricacies of low level programming and its impact on system efficiency and performance.
 
 ### Contact
-- mohamad.h.zbib@gmail.com
-- +961 76 782 106
+mohamad.h.zbib@gmail.com
++961 76 782 106
 
 
