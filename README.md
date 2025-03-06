@@ -1,7 +1,7 @@
 
 ## About
 
-ackend Software Engineer specializing in Java Spring Boot, Cloud Solutions, and Docker. Passionate about building scalable, high-performance backend systems, optimizing databases, and leveraging cloud technologies for reliability and efficiency.
+Backend Software Engineer specializing in Java Spring Boot, Cloud Solutions, and Docker. Passionate about building scalable, high-performance backend systems, optimizing databases, and leveraging cloud technologies for reliability and efficiency.
 
 <p align="flex-start">
   <a href="https://skillicons.dev">
