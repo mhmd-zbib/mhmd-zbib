@@ -10,6 +10,43 @@ Backend Software Engineer specializing in Java Spring Boot, Cloud Solutions, and
  </p>
 
 
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Click Game</title>
+</head>
+<body style="text-align: center; font-family: Arial, sans-serif; margin-top: 50px;">
+
+    <h1>Click the Box!</h1>
+    <h2 id="score">Score: 0</h2>
+
+    <div id="box" 
+         style="width: 100px; height: 100px; background-color: red; margin: 50px auto; cursor: pointer; position: relative;">
+    </div>
+
+    <script>
+        let score = 0;
+        let box = document.getElementById('box');
+        let scoreText = document.getElementById('score');
+
+        box.onclick = function() {
+            score += 1;
+            scoreText.innerText = 'Score: ' + score;
+
+            let x = Math.random() * (window.innerWidth - 100);
+            let y = Math.random() * (window.innerHeight - 100);
+
+            box.style.position = 'absolute';
+            box.style.left = x + 'px';
+            box.style.top = y + 'px';
+        };
+    </script>
+
+</body>
+</html>
+
+
+
 ### Professional Focus
 - **Backend Development**: Skilled in building scalable and efficient backend systems using Java Spring Boot.
 - **Cloud Solutions**: Proficient in leveraging cloud technologies to enhance application performance and reliability.
