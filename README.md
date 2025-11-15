@@ -23,20 +23,3 @@ Backend Software Engineer specializing in Java Spring Boot, Cloud Solutions, and
 **Email:** mohamad.h.zbib@gmail.com
 
 **Phone:** 961 76 782 106
-
-
----
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mhmd_zbib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mhmd_zbib" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmd-zbib&show_icons=true&locale=en&layout=compact" alt="mhmd-zbib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-zbib&" alt="mhmd-zbib" /></p>
