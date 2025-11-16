@@ -1,22 +1,30 @@
-<h1>Software Engineer & Architect</h1>
+```
+                                                |>>>
+                                                |
+                                            _  _|_  _
+                                           |;|_|;|_|;|
+                                           \\.    .  /
+                                            \\:  .  /
+                                             ||:   |
+                                             ||:.  |
+                                             ||:  .|
+                                             ||:   |       \,/
+                                             ||: , |            /`\
+                                             ||:   |
+                                             ||: . |
+              __                            _||_   |                                _,-
+     ____--`~    '--~~__            __ ----~    ~`---,              ___          __/       
+-~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~~`
+```
 
-**Specializing in system design and large-scale infrastructure. I build high-performance, reliable, and scalable systems, designing robust architectures.**
+Software Engineer & Architect specializing in system design and large-scale infrastructure. I build high-performance, reliable, and scalable systems, designing robust architectures.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,typescript,spring,mongodb,postgresql,redis&perline=10" />
-  </a>
 
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=rabbitmq,docker,kubernetes&perline=10" />
-  </a>
-</p>
-
-## Professional Focus
-
-- **Backend Development**: Skilled in building scalable and efficient backend systems using Java Spring Boot.  
-- **Cloud Solutions**: Proficient in leveraging cloud technologies to enhance application performance and reliability.  
-- **Containerization**: Experienced in containerization and orchestration with Docker to streamline development workflows.  
+| Category                       | Skills & Tools                                                                                                           |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| **Backend**                     | ![Java](https://skillicons.dev/icons?i=java) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Spring](https://skillicons.dev/icons?i=spring) ![NodeJS](https://skillicons.dev/icons?i=nodejs) |
+| **Databases & Storage**         | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgresql) ![Redis](https://skillicons.dev/icons?i=redis) |
+| **Messaging & Event Systems**   | ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq) ![Kafka](https://skillicons.dev/icons?i=kafka)                      |
+| **Cloud, DevOps & Infra**       | ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Elasticsearch](https://skillicons.dev/icons?i=elasticsearch) ![GCP](https://skillicons.dev/icons?i=gcp) ![Nginx](https://skillicons.dev/icons?i=nginx) |
+| **CI/CD & Testing**             | ![Jest](https://skillicons.dev/icons?i=jest) ![GitHubActions](https://skillicons.dev/icons?i=githubactions) |
